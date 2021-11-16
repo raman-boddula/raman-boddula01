@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 	<a href="www.linkedin.com/in/raman-boddula">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+	<a href="https://twitter.com/raman_boddula">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
 	<a href="https://www.instagram.com/raman_chinna_/">
